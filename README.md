@@ -89,19 +89,11 @@
 
 # 📈 GitHub Stats
 
-<!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kupendra267&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kupendra267&show_icons=true&cache_seconds=1800)
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=kupendra267)
+![GitHub Streak](https://streak-stats.demolab.com?user=kupendra267)
 
----
-
-# 🔥 Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kupendra267&layout=compact&theme=tokyonight)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kupendra267&layout=compact)
 
 # 🏆 Coding Profiles
 
