@@ -113,8 +113,8 @@
 
 # 📫 Connect With Me
 
-- LinkedIn: Your LinkedIn Link
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kupendra-reddy-17472430a
+- Email: kupendrareddy12@gmail.com
 
 ---
 
