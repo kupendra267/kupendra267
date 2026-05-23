@@ -1,6 +1,6 @@
 # Hi 👋, I'm J Kupendra Reddy
 
-🎓 3rd Year B.Tech CSE (AI & ML) Student  
+🎓 Final Year B.Tech CSE (AI & ML) Student  
 🏫 Siddharth Institute of Engineering and Technology, Puttur  
 💻 Passionate about Software Development, AI/ML and DSA  
 🚀 Currently improving problem-solving and building projects  
