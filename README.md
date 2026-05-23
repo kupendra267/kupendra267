@@ -99,7 +99,7 @@
 
 # 🔥 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kupendra267&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kupendra267&layout=compact&theme=tokyonight)
 
 ---
 
